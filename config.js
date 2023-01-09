@@ -13,11 +13,11 @@ global.antitags = true
 global.Owner = ['918348225320'] //ur number 
 global.OwnerNumber = ['918348225320']
 global.ownertag = ['918348225320']
-global.BotName = "ZenitsuBot" //ur bot name 
-global.packname = "ZenitsuBot"
-global.author = "🦄Dream Guy Deepak" //ur sticker pack name 
-global.OwnerName = "🦄Dream Guy Deepak" //ur name
-global.BotSourceCode = "https://youtube.com/@dreamguydeepak" //ur website link
+global.BotName = "MLaLi ZizWaR" //ur bot name 
+global.packname = "MLaLi ZizWaR"
+global.author = "🦄MLaLi ZizWaR" //ur sticker pack name 
+global.OwnerName = "🦄MLaLi ZizWaR" //ur name
+global.BotSourceCode = "https://www.youtube.com/@mzteammods/videos" //ur website link
 global.SupportGroupLink = "https://chat.whatsapp.com/KguOo9XsRTW2iESYuHzVX1" //ur group link 
 global.sessionName = "session"
 
